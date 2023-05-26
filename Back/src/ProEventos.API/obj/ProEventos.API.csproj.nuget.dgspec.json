@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj": {}
+    "C:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "c:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj": {
+    "C:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "c:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj",
+        "projectPath": "C:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\vmach\\.nuget\\packages\\",
-        "outputPath": "c:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.Api\\obj\\",
+        "outputPath": "C:\\projetos\\vscode\\Proeventos\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
