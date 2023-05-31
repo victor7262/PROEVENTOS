@@ -492,5 +492,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
-Back/src/ProEventos.Api/obj/
+Back/src/ProEventos.API/obj/
 
