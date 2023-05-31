@@ -491,3 +491,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+Back/src/ProEventos.Api/obj/
+
